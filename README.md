@@ -47,17 +47,7 @@ Telegram-2025C/
    - `technical_docs.md` - Texniki detallar
 4. Cursor AI ilə kod yazın
 5. Botu quraşdırın və işə salın
-
-## Müəllim üçün
-
-**Həllər `solution/` qovluğundadır və `.gitignore`-a əlavə edilmişdir.**
-
-`solution/` qovluğunda:
-- Bütün botların tam həlləri (bütün kodlar)
-- Tam sənədləşmə
-- Hazır işləyən kodlar
-
-Bu qovluq git-ə daxil edilmir və yalnız sizin üçündür.
+   
 
 ## Layihələr
 
